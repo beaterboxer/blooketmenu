@@ -1,5 +1,5 @@
 <p align="center">
-<img src=https://img.shields.io/github/stars/beaterbox/?style=for-the-badge&logo=appveyor&color=blue />
+<img src=https://img.shields.io/github/stars/beaterboxer/blooketmenu?style=for-the-badge&logo=appveyor&color=blue />
 <img src=https://img.shields.io/github/forks/beaterboxer/blooketmenu?style=for-the-badge&logo=appveyor&color=blue />
 <img src=https://img.shields.io/github/issues/beaterboxer/blooketmenu?style=for-the-badge&logo=appveyor&color=informational />
 <img src=https://img.shields.io/github/issues-pr/beaterboxer/blooketmenu?style=for-the-badge&logo=appveyor&color=informational />
